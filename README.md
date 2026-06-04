@@ -21,7 +21,7 @@ This dashboard aims to:
 *   **Data Visualization:** Designed an interactive UI/UX with various charts (Scatter plots, Donut charts, Bar charts, etc).
 *   **Interactivity:** Built a smooth user experience using Navigation, Cross-filtering, Tooltips, and Global Filters.
 
-![HR Dashboard](HR_Dashboard.png)
+![HR Dashboard](OverviewDashboard.png)
 
 ---
 
