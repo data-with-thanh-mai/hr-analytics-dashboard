@@ -1,6 +1,7 @@
 # HR Analytics Dashboard | Workforce Overview, Pay Anomalies & Retention Insights
 ![HR Dashboard](images/OverviewDashboard.png)
-![Detail Dashboard](images/Detail Dashboard.png)
+
+![DetailDashboard](images/DetailDashboard.png)
 
 ## 1. Business Context & Project Summary
 
