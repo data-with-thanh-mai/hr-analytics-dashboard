@@ -1,4 +1,13 @@
 # HR Analytics Dashboard | Workforce Overview, Pay Anomalies & Retention Insights
+## Table of Contents
+- [1. Business Context & Project Summary](#1-business-context--project-summary)
+- [2. Workforce Overview & Key Metrics](#2-workforce-overview--key-metrics)
+- [3. Key Findings & Anomalies](#3-key-findings--anomalies)
+- [4. Strategic Recommendations](#4-strategic-recommendations)
+- [5. Dashboard Navigation](#5-dashboard-navigation)
+- [6. Author Info & Contact](#6-author-info--contact)
+
+---
 ![HR Dashboard](images/OverviewDashboard.png)
 
 ![DetailDashboard](images/DetailDashboard.png)
@@ -119,4 +128,4 @@ Thank you for reading! If you have any questions, feedback, or want to collabora
 *   💻 **GitHub:** [github.com/data-with-thanh-mai](https://github.com/data-with-thanh-mai)
 *   📊 **Tableau Public:** [public.tableau.com//thaingocthanhmai](https://public.tableau.com/app/profile/thanh.mai.thai.ngoc)
 
-> *"Without data, you're just another person with an opinion"*
+> *"Without data, you're just another person with an opinion."*
