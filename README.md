@@ -2,15 +2,17 @@
 
 ## 📑 Table of Contents
 
-* [1. Project Sneak Peek](#1-project-sneak-peek)
-* [2. Business Context & Problem](#2-business-context--problem)
-* [3. Project Architecture & Navigation](#3-project-architecture--navigation)
-    * [Phase 1: Descriptive Analytics & HR Dashboard](#phase-1-descriptive-analytics--hr-dashboard)
-    * [Phase 2: Predictive AI Early Warning System](#phase-2-predictive-ai-early-warning-system)
+* [1. Business Context & Problem](#1-business-context--problem)
+* [2. Phase 1: Descriptive Analytics & HR Dashboard](#2-phase-1-descriptive-analytics--hr-dashboard)
+    * [Workforce Overview](#workforce-overview)
+    * [Key Findings & Anomalies](#key-findings--anomalies)
+    * [Strategic Recommendations](#strategic-recommendations)
+* [3. Phase 2: Predictive AI Early Warning System](#3-phase-2-predictive-ai-early-warning-system)
+    * [Strategy & Business ROI](#strategy--business-roi)
+    * [Technical Approach & Results](#technical-approach--results)
+    * [The Actionable Output](#the-actionable-output)
 * [4. Tech Stack](#4-tech-stack)
-* [5. Repository Structure](#5-repository-structure)
-* [6. Author Info & Contact](#6-author-info--contact)
-
+* [5. Author Info & Contact](#5-author-info--contact
 ## 📸 Project Sneak Peek
 
 ### Phase 1: Descriptive HR Dashboard
