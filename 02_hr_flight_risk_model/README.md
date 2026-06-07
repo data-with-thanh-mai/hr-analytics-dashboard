@@ -1,7 +1,7 @@
 
 # Flight Risk Detection: An Early Warning System for HR
 
-*This directory contains Phase 2 of the End-to-End HR Analytics: From Descriptive Dashboard to Predictive AI. If you are looking for the overall business context or the EDA/Tableau Dashboard, please refer to the [Master README](../README.md) or [Phase 1: HR Dashboard](02_hr_flight_risk_model/HR_Flight_Risk_Prediction.ipynb).*
+*This directory contains Phase 2 of the End-to-End HR Analytics: From Descriptive Dashboard to Predictive AI. If you are looking for the overall business context or the EDA/Tableau Dashboard, please refer to the [Master README](../README.md) or [Phase 1: HR Dashboard](Phase 1: HR Dashboard](../01_hr_dashboard_analysis/).*
 
 ## 🛠 Tech Stack
 * **Environment:** Jupyter Notebook
@@ -10,7 +10,7 @@
 * **Model Explainability:** SHAP
 
 
-> 👉 All technical implementations, EDA, and model tuning can be found in the **[flight_risk_model.ipynb](./flight_risk_model.ipynb)** notebook.
+> 👉 All technical implementations, EDA, and model tuning can be found in the **[HR_Flight_Risk_Prediction.ipynb](02_hr_flight_risk_model/HR_Flight_Risk_Prediction.ipynb)** notebook.
 
 ## Table of Contents
 - [1. Context & Business Problem](#1-context--business-problem)
