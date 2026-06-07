@@ -76,7 +76,7 @@ Since missing a flight risk is 10x more costly than a false alarm, our model opt
 The final deliverable of this project is an automated CSV file. For each at-risk employee, the report provides the predicted risk score, the top driving factors (explained by SHAP), and concrete recommendations for HR. 
 
 
-*Snapshot from the automated report (`HR_Retention_Alerts_2026_06.csv`):*
+*Snapshot from the automated report ([HR_Retention_Alerts_2026_06.csv](data/HR_Retention_Alerts_2026_06.csv):*
 
 | Employee ID | Risk Score | Top Driving Factors (via SHAP) | Actionable Advice |
 | :--- | :--- | :--- | :--- |
