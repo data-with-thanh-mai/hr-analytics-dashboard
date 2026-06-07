@@ -1,5 +1,16 @@
 # End-to-End HR Analytics: From Descriptive Dashboard to Predictive AI
 
+## 📑 Table of Contents
+
+* [1. Project Sneak Peek](#1-project-sneak-peek)
+* [2. Business Context & Problem](#2-business-context--problem)
+* [3. Project Architecture & Navigation](#3-project-architecture--navigation)
+    * [Phase 1: Descriptive Analytics & HR Dashboard](#phase-1-descriptive-analytics--hr-dashboard)
+    * [Phase 2: Predictive AI Early Warning System](#phase-2-predictive-ai-early-warning-system)
+* [4. Tech Stack](#4-tech-stack)
+* [5. Repository Structure](#5-repository-structure)
+* [6. Author Info & Contact](#6-author-info--contact)
+
 ## 📸 Project Sneak Peek
 
 ### Phase 1: Descriptive HR Dashboard
@@ -34,16 +45,16 @@
 
 ## 1. Business Context & Problem
 
-**The Business Context:**
+### **The Business Context:**
 Previously, the company's HR data was highly decentralized, making it difficult for the management team to track workforce demographics, pay equity, and performance metrics. Furthermore, the organization lacked any predictive modeling capabilities to foresee employee attrition, leaving the HR department without the necessary tools to proactively retain top talent.
 
-**The Initial Goal:**
+#### **The Initial Goal:**
 The project began with the objective of building a comprehensive analytics system to provide a macroscopic overview of HR operations and generate actionable, data-driven insights.
 
-**The Problem Identified (Data-Driven Discovery):**
+#### **The Problem Identified (Data-Driven Discovery):**
 During the exploratory data analysis (EDA) and dashboarding process, a specific, high-impact systemic issue was uncovered: a 2.45% annual turnover rate heavily concentrated in core operational departments. Losing approximately 201 employees yearly results in a talent drain costing the company ~$1 Million annually (based on the SHRM benchmark of $4,700 cost-per-hire).
 
-**The End-to-End Solution:**
+### **The End-to-End Solution:**
 To address both the need for general operational visibility and the specific turnover problem, this project is structured into two interconnected phases:
 
 * **Phase 1 (Descriptive Analytics):** An interactive Tableau dashboard designed for daily operational monitoring. It provides a complete workforce overview, highlights pay anomalies, and tracks departmental trends.
@@ -110,10 +121,15 @@ The system generates an automated CSV file (`HR_Retention_Alerts_2026_06.csv`) d
 ---
 
 ## 📞 Author Info & Contact
+**Thai Ngoc Thanh Mai**
+*Data Analyst*
 
-**Thai Ngoc Thanh Mai** - *Data Analyst*
+Thank you for reading! If you have any questions, feedback, or want to collaborate, feel free to connect with me:
 
-* 📧 **Email:** thaingocthanhmai@gmail.com
-* 💼 **LinkedIn:** linkedin.com/thaingocthanhmai
-* 💻 **GitHub:** github.com/data-with-thanh-mai
-* 📊 **Tableau Public:** public.tableau.com//thaingocthanhmai
+*   📧 **Email:** thaingocthanhmai@gmail.com
+*   💼 **LinkedIn:** [linkedin.com/thaingocthanhmai](https://www.linkedin.com/in/thaingocthanhmai)
+*   💻 **GitHub:** [github.com/data-with-thanh-mai](https://github.com/data-with-thanh-mai)
+*   📊 **Tableau Public:** [public.tableau.com//thaingocthanhmai](https://public.tableau.com/app/profile/thanh.mai.thai.ngoc)
+
+> *"Without data, you're just another person with an opinion."*
+
