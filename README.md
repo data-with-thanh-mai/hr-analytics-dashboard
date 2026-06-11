@@ -12,7 +12,7 @@
     * [Technical Approach & Results](#technical-approach--results)
     * [The Actionable Output](#the-actionable-output)
 * [4. Tech Stack](#4-tech-stack)
-* [5. Author Info & Contact](#5-author-info--contact
+* [5. Author Info & Contact](#5-author-info--contact)
 ## 📸 Project Sneak Peek
 
 ### Phase 1: Descriptive HR Dashboard
@@ -22,10 +22,9 @@
 ### Phase 2: Predictive Early Warning System
 *(AI-driven flight risk detection with SHAP explainability translating into actionable HR interventions)*
 
-<div align="center">
-  <img src="02_hr_flight_risk_model/images/SHAP_Summary.png" alt="SHAP Model Explainability" width="48%">
-  <img src="02_hr_flight_risk_model/images/HR_Risk_Report.png" alt="Actionable Output Roster" width="48%">
-</div>
+| Root Causes (SHAP Explainer) | Actionable HR Roster |
+| :---: | :---: |
+| <img src="02_hr_flight_risk_model/images/SHAP_Summary.png" width="100%"> | <img src="02_hr_flight_risk_model/images/HR_Risk_Report.png" width="100%"> |
 
 *(Left: SHAP values revealing root causes of attrition. Right: The automated Actionable Roster generated for HR Leaders).*
 
