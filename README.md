@@ -63,7 +63,7 @@ Previously, the company's HR data was highly decentralized, making it difficult 
 The project began with the objective of building a comprehensive analytics system to provide a macroscopic overview of HR operations and generate actionable, data-driven insights.
 
 #### **The Problem Identified (Data-Driven Discovery):**
-During the exploratory data analysis (EDA) and dashboarding process, a specific, high-impact systemic issue was uncovered: a 2.45% annual turnover rate heavily concentrated in core operational departments. Losing approximately 201 employees yearly results in a talent drain costing the company ~$1 Million annually (based on the SHRM benchmark of $4,700 cost-per-hire).
+During the exploratory data analysis (EDA) and dashboarding process, a specific, high-impact systemic issue was uncovered: a 2.45% annual turnover rate (2024) heavily concentrated in core operational departments. Losing approximately 201 employees yearly results in a talent drain costing the company ~$1 Million annually (based on the SHRM benchmark of $4,700 cost-per-hire).
 
 ### **The End-to-End Solution:**
 To address both the need for general operational visibility and the specific turnover problem, this project is structured into two interconnected phases:
