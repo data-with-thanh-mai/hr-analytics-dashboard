@@ -84,7 +84,7 @@ This dual approach upgrades the HR function from basic, reactive reporting to pr
 
 ## 2. Phase 1: Descriptive Analytics & HR Dashboard
 
-*For full details, please refer to the `01_hr_dashboard_analysis/` directory.*
+*For full details, please refer to the [`01_hr_dashboard_analysis/` directory.](01_hr_dashboard_analysis)*
 
 The first phase of the project aims to set baselines, identify anomalies in turnover and salary, and propose data-driven next steps.
 
