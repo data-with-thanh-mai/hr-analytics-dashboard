@@ -22,13 +22,21 @@
 ### Phase 2: Predictive Early Warning System
 *(AI-driven flight risk detection with SHAP explainability translating into actionable HR interventions)*
 
-<p align="center">
-  <img src="02_hr_flight_risk_model/images/SHAP_Summary.png" alt="SHAP Model Explainability" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="02_hr_flight_risk_model/images/HR_Risk_Report.png" alt="Actionable Output Roster" width="45%" />
-</p>
-
-*(Left: SHAP values revealing root causes of attrition. Right: The automated Actionable Roster generated for HR Leaders).*
+<table width="100%">
+  <tr>
+    <th width="40%">Root Causes (SHAP Explainer)</th>
+    <th width="60%">Actionable HR Table </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="02_hr_flight_risk_model/images/SHAP_Summary.png" width="100%">
+    </td>
+    <td valign="top">
+      <img src="02_hr_flight_risk_model/images/HR_Risk_Report.png" width="100%">
+    </td>
+  </tr>
+</table>
+*(Left: SHAP values revealing root causes of attrition. Right: The automated Actionable Table generated for HR Leaders).*
 
 ---
 
