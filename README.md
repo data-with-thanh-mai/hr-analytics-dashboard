@@ -84,7 +84,7 @@ This dual approach upgrades the HR function from basic, reactive reporting to pr
 
 ## 2. Phase 1: Descriptive Analytics & HR Dashboard
 
-*For full details, please refer to the [`01_hr_dashboard_analysis` directory.](01_hr_dashboard_analysis)*
+*For full details, please refer to the [`01_hr_dashboard_analysis`](01_hr_dashboard_analysis)*
 
 The first phase of the project aims to set baselines, identify anomalies in turnover and salary, and propose data-driven next steps.
 
@@ -104,7 +104,7 @@ The first phase of the project aims to set baselines, identify anomalies in turn
 
 ## 3. Phase 2: Predictive AI Early Warning System
 
-*For technical implementations, please refer to the `02_hr_flight_risk_model/HR_Flight_Risk_Prediction.ipynb` notebook.*
+*For technical implementations, please refer to the [`02_hr_flight_risk_model`](02_hr_flight_risk_model)*
 
 Following the dashboard's recommendation, Phase 2 implements a Machine Learning model to detect flight risks objectively. 
 
